@@ -1,0 +1,147 @@
+﻿h1 span{
+border: 5px dashed aqua;
+border-radius: 15px;
+padding: 10px;
+}
+#header {
+    margin-left: 15px;
+    transition: .4s;
+    /*background-image: url("E:\EigeneDaten\Pictures\Profile\tee.jpg");
+    background-size: cover;*/
+
+}
+#name{
+    font-size: large;
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+}
+#section{
+    margin-left: 15px;
+    transition: .4s;
+}
+h1{
+font-size: 15px;
+color: midnightblue;
+text-align: center;
+padding: 19px 0 19px 0;
+margin: 0 0 10px 0;
+}
+body {
+    font-family: 'Handlee',cursive;
+    padding: 10px;
+    background-color: beige;
+    background-image: url("tee.jpg");
+    background-size: cover;
+}
+ul{
+    list-style-type: upper-roman;
+}
+li{
+margin-bottom: 15px;
+font-weight: bold;
+
+}
+video{
+    border-style: double;
+    border-color: aqua;
+    padding-top: 3px;
+    align-items: center;
+}
+.selected{
+background-color: red;
+font-weight: bold;
+color: white;
+}
+table{
+width: 90%;
+font-size: 11px;
+
+
+}
+/*.navigition a{
+    margin: 10px;
+}
+.navigition{
+    margin-left: 15px;
+    transition: .4s;
+    color:  darkblue;
+    font-size: medium;
+    font-family: 'Arial Unicode MS';
+    padding: 10px;
+    
+}*/
+#nav{
+    background-color: aqua;
+    padding-left: 10px;
+    transition: .4s;
+    height: 100%;
+    margin-left: 0px;
+}
+#nav a{
+    color: white;
+    font-size: medium;
+    margin-left: 0px;
+
+}
+.close{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: medium;
+}
+#sidenav a{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#sidenav li{
+    list-style-type: none;
+    width: 100%;
+    margin: 25px 0px;
+}
+#sidenav{
+    background-color: aqua;
+    width: 200px;
+    text-align: left;
+    height: 100%;
+    margin-left: -220px;
+    transition: .4s;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+    border-right: 4px solid blue;
+}
+
+
+
+table,th,td{
+border: 2px solid black;
+border-collapse: collapse;
+text-align: center;
+
+}
+form{
+text-align: center;
+margin-top: 0;
+}
+.Submit1{
+background-color: aqua;
+padding: 12px 45px;
+border-radius: 5px;
+cursor: pointer;
+border: none;
+margin: 0;
+font-weight: bold;
+color: navy;
+}
+input,textarea{
+background-color: silver;
+color: navy;
+margin-bottom: 10px;
+font-size: 11px;
+border: 1px solid aqua;
+border-radius: 5px;
+width: 70%;
+}

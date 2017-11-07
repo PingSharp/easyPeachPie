@@ -1,0 +1,12 @@
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.deps.json
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.runtimeconfig.json
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.runtimeconfig.dev.json
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.dll
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.pdb
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.dll
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\bin\Debug\netcoreapp1.1\win-x64\peachpieWeb.pdb
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\obj\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.csproj.CoreCompileInputs.cache
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\obj\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.AssemblyInfoInputs.cache
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\obj\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.AssemblyInfo.cs
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\obj\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.dll
+E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb.Server\obj\Debug\netcoreapp1.1\win-x64\peachpieWeb.Server.pdb
