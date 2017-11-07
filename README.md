@@ -1,10 +1,11 @@
 ## web-app
 
-Template for a simple PHP web application hosten on Kestrel and ASP.NET Core pipeline.
+Trying out PHP with peachpie compiler hosten on Kestrel and ASP.NET Core pipeline.
+
+##  be careful 
+- static files are in server project
+- PHP Code in PHP project
 
 ### How to run
-1. Install peachpie templates
-2. `dotnet new peachpie-web`
-3. `dotnet restore`
-4.  Modify `website/index.php` (optional)
-5. `dotnet run`
+1. `dotnet restore`
+2. `dotnet run`
