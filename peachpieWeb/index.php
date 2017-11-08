@@ -1,21 +1,12 @@
 <?php 
 
-    class FirstClass
-    {
-        public $var1;
-        protected $var2;
+    
 
-        public function GetVar1() 
-        {
-            return $this->var1;
-        }
+    include_once('Lib/FirstClass.php');
 
-        public function GetVar2()
-        {
-            return $this->var2;
-        }
+    $firstClassObj = new FirstClass();
 
-    }
+    $firstClassObj->var1 = 1;
 
     $Person = "KePing Zang";
     $short = "Dot Ping";
