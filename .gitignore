@@ -96,3 +96,16 @@
 /peachpieWeb/vendor/jbzoo/utils/tests/VarsTest.php
 /peachpieWeb/composer.json
 /peachpieWeb/composer.lock
+peachpieWeb/obj/Debug/netstandard1.6/peachpieWeb.pdb
+peachpieWeb/bin/Debug/netstandard1.6/peachpieWeb.dll
+peachpieWeb/bin/Debug/netstandard1.6/peachpieWeb.pdb
+peachpieWeb/obj/Debug/netstandard1.6/compile-php-args.rsp
+peachpieWeb/obj/Debug/netstandard1.6/dotnet-compile-php.rsp
+peachpieWeb/obj/Debug/netstandard1.6/peachpieWeb.dll
+peachpieWeb/obj/Debug/netstandard1.6/peachpieWeb.msbuildproj.CoreCompileInputs.cache
+peachpieWeb/obj/Debug/netstandard2.0/compile-php-args.rsp
+peachpieWeb/obj/Debug/netstandard2.0/peachpieWeb.msbuildproj.CoreCompileInputs.cache
+peachpieWeb/obj/Debug/netstandard2.0/peachpieWeb.msbuildproj.FileListAbsolute.txt
+peachpieWeb.Server/bin/Debug/netcoreapp1.1/peachpieWeb.dll
+peachpieWeb.Server/bin/Debug/netcoreapp1.1/peachpieWeb.pdb
+peachpieWeb.Server/obj/Debug/netcoreapp2.0/peachpieWeb.Server.csproj.CoreCompileInputs.cache
