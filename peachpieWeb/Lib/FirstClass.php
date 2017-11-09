@@ -4,6 +4,11 @@ class FirstClass
     public $var1;
     protected $var2;
 
+    public function FirstClass()
+    {
+        
+    }
+
     public function GetVar1() 
     {
         return $this->var1;
