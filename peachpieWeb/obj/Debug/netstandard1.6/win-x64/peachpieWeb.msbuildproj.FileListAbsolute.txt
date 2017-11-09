@@ -1,6 +1,0 @@
-E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb\bin\Debug\netstandard1.6\win-x64\peachpieWeb.deps.json
-E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb\bin\Debug\netstandard1.6\win-x64\peachpieWeb.dll
-E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb\bin\Debug\netstandard1.6\win-x64\peachpieWeb.pdb
-E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb\obj\Debug\netstandard1.6\win-x64\peachpieWeb.msbuildproj.CoreCompileInputs.cache
-E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb\obj\Debug\netstandard1.6\win-x64\peachpieWeb.dll
-E:\EigeneDaten\Documents\Visual Studio 2017\Projects\bewerbungsTests\peachpieWeb\peachpieWeb\obj\Debug\netstandard1.6\win-x64\peachpieWeb.pdb
